@@ -20,8 +20,7 @@ namespace Halado_alk_hazi1
             dogs.Add(new Dog("L", "Blonde", 4, false, false, "Deep woof", false));
             dogs.Add(new Dog("XL", "Grey", 4, false, false, "Deeper woof", false));
 
-            foreach (var dog in dogs)
-            {
+            foreach (var dog in dogs){
                 Console.WriteLine(dog.print());
             }
             #endregion
@@ -35,8 +34,10 @@ namespace Halado_alk_hazi1
             fishes.Add(new Fish("L", "Silver", 0, false, true, "Gaping", false));
             fishes.Add(new Fish("XL", "Black", 0, false, true, "Gaping", false));
 
-
-
+            Console.WriteLine();
+            foreach (var fish in fishes){
+                Console.WriteLine(fish.print());
+            }
             #endregion
 
 
