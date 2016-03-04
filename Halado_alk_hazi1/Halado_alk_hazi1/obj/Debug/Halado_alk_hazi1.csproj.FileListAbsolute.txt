@@ -1,0 +1,6 @@
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\bin\Debug\Halado_alk_hazi1.exe.config
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\obj\Debug\Halado_alk_hazi1.csprojResolveAssemblyReference.cache
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\bin\Debug\Halado_alk_hazi1.exe
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\bin\Debug\Halado_alk_hazi1.pdb
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\obj\Debug\Halado_alk_hazi1.exe
+D:\Dokumentumok\Hal_alk\Halado_alk_hazi1\Halado_alk_hazi1\obj\Debug\Halado_alk_hazi1.pdb
