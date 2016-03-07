@@ -17,8 +17,7 @@ namespace Halado_alk_hazi1
             this.cage = Cage;
         }
 
-        public override string print()
-        {
+        public override string print(){
             return base.print() + ", Can fly: " + canFly.ToString() + ", Cage bird: " + cage.ToString();
         }
 

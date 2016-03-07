@@ -25,7 +25,7 @@ namespace Halado_alk_hazi1
         }
 
         public string makeSound(){
-            return sound;
+            return this.GetType().Name + " says: " + sound;
         }
 
         public virtual string print(){
